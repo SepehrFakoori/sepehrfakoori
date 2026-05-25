@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly Motivated and Quick-Learning Flutter Developer with less than a year of experience in mobile app development and Python programming. Experienced in collaborating on projects as a freelancer. Excellent communication, teamwork, and problem-solving skills. Eager to enhance my skills through junior or internship roles in a professional environment.
+Flutter Developer with +3 year of experience in mobile app development and Python programming. Experienced in collaborating on projects as a freelancer. Excellent communication, teamwork, and problem-solving skills.
 
 
 ## 🌐 Socials:
