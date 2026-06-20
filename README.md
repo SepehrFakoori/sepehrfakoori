@@ -18,6 +18,4 @@ Flutter Developer with +3 year of experience in mobile app development and Pytho
 ---
 [![](https://visitcount.itsvg.in/api?id=Sepehrfakoori&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake Animation](https://raw.githubusercontent.com/sepehrfakoori/sepehrfakoori/output/github-contribution-grid-snake-dark.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
